@@ -1,0 +1,72 @@
+/* Quiz container styles */
+#quiz-container {
+    font-size: 20px;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 500px;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  #timer {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  
+  #question-container {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  #result {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  #score-container {
+    margin-bottom: 20px;
+  }
+  
+  #score-container p {
+    font-size: 25px;
+  }
+  
+  #initials {
+    font-size: 25px;
+    margin-left: 10px;
+  }
+  
+  #save-score {
+    font-size: 30px;
+    margin-left: 10px;
+  }
+  
+  /* High scores container styles */
+  #high-scores-container {
+    display: none;
+    text-align: center;
+    margin: 20px auto;
+    max-width: 500px;
+  }
+  
+  #high-scores-container h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+  }
+  
+  #high-scores {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  #high-scores li {
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+  
+  #view-quiz {
+    font-size: 25px;
+  }
